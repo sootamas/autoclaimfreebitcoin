@@ -8,7 +8,7 @@ import time
 import random
 
 
-BASE_URL = 'https://www.instagram.com/'
+BASE_URL = 'https://www.instagram.com/accounts/login/'
 LOGIN_URL = BASE_URL + 'accounts/login/ajax/'
 USER_AGENT = "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:82.0) Gecko/20100101 Firefox/82.0"
 proxyAddress = None
